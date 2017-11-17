@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - UI_CONTROLLER_LEFT
+  - UI_CONTROLLER_RIGHT
+  - UI_CONTROLLER_FIRE
+  - UI_CONTROLLER_BOOST
+  - OBJECT_PLAYER
+  - OBJECT_BULLET
+  - OBJECT_ENEMY
+  - UI_CONTROLLER
+  - UI_SCORE
+  - UI_CANVAS
+  - UI_CONTROLLER_MOVE
+  - UI_CONTROLLER_MOVE_CENTER
+  - UI_CONTROLLER_BOOST_FILLER
+  - OBJECT_PLAYER_PARACHUTE
+  - UI_LABEL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI_MAIN
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overlay
+    uniqueID: 3873300049
+    locked: 0

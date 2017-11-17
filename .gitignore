@@ -1,0 +1,6 @@
+build/
+Library/
+Temp/
+obj/
+.DS_Store
+
